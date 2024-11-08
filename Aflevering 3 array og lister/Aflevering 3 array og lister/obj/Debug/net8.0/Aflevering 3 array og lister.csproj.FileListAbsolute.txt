@@ -1,0 +1,15 @@
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.GeneratedMSBuildEditorConfig.editorconfig
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.AssemblyInfoInputs.cache
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.AssemblyInfo.cs
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.csproj.CoreCompileInputs.cache
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.sourcelink.json
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\bin\Debug\net8.0\Aflevering 3 array og lister.exe
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\bin\Debug\net8.0\Aflevering 3 array og lister.deps.json
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\bin\Debug\net8.0\Aflevering 3 array og lister.runtimeconfig.json
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\bin\Debug\net8.0\Aflevering 3 array og lister.dll
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\bin\Debug\net8.0\Aflevering 3 array og lister.pdb
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.dll
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\refint\Aflevering 3 array og lister.dll
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.pdb
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\Aflevering 3 array og lister.genruntimeconfig.cache
+E:\SKOLE\GitHub Repository\Bjarke-Aflevering-3\Aflevering 3 array og lister\Aflevering 3 array og lister\obj\Debug\net8.0\ref\Aflevering 3 array og lister.dll

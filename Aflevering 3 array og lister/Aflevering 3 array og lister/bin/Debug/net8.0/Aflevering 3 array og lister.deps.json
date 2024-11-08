@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aflevering 3 array og lister/1.0.0": {
+        "runtime": {
+          "Aflevering 3 array og lister.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aflevering 3 array og lister/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
